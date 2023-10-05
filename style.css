@@ -780,6 +780,8 @@ footer {
   height: 100%;
   color: white;
   width: 200px;
+  margin-left: auto; 
+  margin-right: auto
 }
 
 .toolbar .socials-section svg {
@@ -787,6 +789,7 @@ footer {
   margin: 0px;
   cursor: pointer;
   transition: 0.3s;
+  
 }
 
 .toolbar .socials-section svg:hover {
